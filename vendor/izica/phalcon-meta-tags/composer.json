@@ -1,0 +1,14 @@
+{
+    "name": "izica/phalcon-meta-tags",
+    "description": "Phalcon PHP Meta tags service",
+    "keywords": ["phalcon", "meta", "tags", "metatags", "meta-tags", "phalconphp"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
