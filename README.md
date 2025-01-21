@@ -40,10 +40,15 @@ Example:
 php
 return [
  'database' => [
+ 
  'adapter' => 'Mysql',
+ 
  'host' => '127.0.0.1',
+ 
  'username' => 'root',
+ 
  'password' => 'password',
+ 
  'dbname' => 'phalcon_auth',
  ],
 ];
