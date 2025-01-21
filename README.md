@@ -1,4 +1,4 @@
-# Falcon Auth Project
+# Phalcon Auth Project
 
 This project demonstrates an authentication (auth) framework developed on Phalcon 5.8 and PHP 8.3. The project provides a basic framework for managing authentication processes. This build is not a package, but is intended as an auth mechanism that can be used in Phalcon projects.
 
