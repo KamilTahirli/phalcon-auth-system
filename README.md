@@ -39,7 +39,9 @@ Example:
 
 php
 
+
 return
+
 [
 
  'database' => [
@@ -53,5 +55,7 @@ return
  'password' => 'password',
  
  'dbname' => 'phalcon_auth',
+
  ],
+
 ];
