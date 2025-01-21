@@ -38,7 +38,10 @@ Add the database connection settings to the config/config.php file.
 Example:
 
 php
-return [
+
+return
+[
+
  'database' => [
  
  'adapter' => 'Mysql',
